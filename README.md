@@ -11,8 +11,9 @@ Este módulo fue subcontratado a una empresa externa con la que por varios desac
 el desarrollo dejándonos esta implementación parcial. Nuestro trabajo, acabarlo.
 
 El código está separado de la siguiente manera:
+
 Domain:
-- User: Es la clase que vamos a utilizar para modelas la información de nuestros usuarios
+- User: Es la clase que vamos a utilizar para modelar la información de nuestros usuarios
 
 Application:
 - UserLoginService: Es un servicio que se va a encargar de loggear a los usuarios

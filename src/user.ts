@@ -4,4 +4,7 @@ export class User {
     constructor(userName: string) {
         this.userName = userName
     }
+
+    getUserName = () => this.userName
+
 }
